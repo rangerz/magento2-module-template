@@ -12,6 +12,14 @@
 </div>
 
 
+## Prepare `composer.json`
+
+- `composer.json` [example](https://github.com/rangerz/magento2-module-template/blob/master/composer.json)
+- `git tag 1.0.0` with same as `"version": "1.0.0"` in `composer.josn` 
+- Push tag `git push origin 1.0.0 `
+
+
+
 
 ## Packagist Setting
 
